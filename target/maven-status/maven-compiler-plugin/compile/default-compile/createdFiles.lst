@@ -1,0 +1,6 @@
+org\sandeep\rest\restmessenger\model\Message.class
+org\sandeep\rest\restmessenger\database\DatabaseClass.class
+org\sandeep\rest\restmessenger\resources\MessageResource.class
+org\sandeep\rest\restmessenger\model\Profile.class
+org\sandeep\rest\restmessenger\MyResource.class
+org\sandeep\rest\restmessenger\service\MessageService.class
